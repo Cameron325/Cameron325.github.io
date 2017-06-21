@@ -1,0 +1,36 @@
+body {
+  padding-top: 50px;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: left;
+}
+
+.museum {
+  text-align: left;
+}
+
+.museum li {
+  list-style: none;
+}
+
+.museum li.person {
+  font-size: 20px;
+}
+
+.museum li.poop img {
+  width: 300px;
+}
+
+.forms .login {
+  float: left;
+}
+
+.forms .signup {
+  float:right;
+}
+
+
+.museum li.cam img {
+  width:  300px;
+}
